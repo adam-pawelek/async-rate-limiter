@@ -1,5 +1,5 @@
 [project]
-name = "async-rate-limiter"
+name = "rategate"
 version = "0.0.1"
 description = ""
 authors = [

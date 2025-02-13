@@ -1,1 +1,3 @@
-# async-rate-limiter
+# RateGate
+
+async rate limiter
